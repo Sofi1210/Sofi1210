@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/eP9SLb7wRnQAAAAi/kitty-kitty-cats.gif" width="50%" display="flex">
+<img src="https://c.tenor.com/eP9SLb7wRnQAAAAi/kitty-kitty-cats.gif" width="50%" style="display: flex;justify-content: center;">
 
 
 
