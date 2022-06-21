@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/vVYQgCPIsYYJa/giphy.gif?cid=ecf05e47z7mtb4xskgkq4xxxklntut6kyfuanqkqc6kwk0zy&rid=giphy.gif&ct=g" alt="recocha2"
+<img src="https://c.tenor.com/eP9SLb7wRnQAAAAi/kitty-kitty-cats.gif" width="100%>
 
 
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofi1210&show_icons=true&locale=en" alt="sofi1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofi1210&" alt="sofi1210" /></p>
+
